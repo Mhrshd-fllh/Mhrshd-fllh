@@ -16,15 +16,16 @@
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 - **Deep Learning Frameworks**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 - **Machine Learning Libraries**: ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-- **Tools & Environments**: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Tools & Environments**: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
 - **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
 ## 🚀 Projects
-- **[CALD_Labelme]**: Developed a streamlined annotation process by integrating **Consistency-Based Active Learning** (CALD) with **LabelMe** for object detection. This approach significantly reduced manual labeling efforts while improving the quality and consistency of annotations.
+- **CALD_Labelme**: Developed a streamlined annotation process by integrating **Consistency-Based Active Learning** (CALD) with **LabelMe** for object detection. This approach significantly reduced manual labeling efforts while improving the quality and consistency of annotations.
 
-- **[Coin Market Cap Analysis]**: Collaborated on a team project to analyze cryptocurrency data from **CoinMarketCap.com**. Leveraged advanced data analytics and visualization techniques in **Power BI** to uncover trends, insights, and patterns, providing actionable intelligence on market dynamics.
+- **Coin Market Cap Analysis**: Collaborated on a team project to analyze cryptocurrency data from **CoinMarketCap.com**. Leveraged advanced data analytics and visualization techniques in **Power BI** to uncover trends, insights, and patterns, providing actionable intelligence on market dynamics.
 
 
 ---
