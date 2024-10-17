@@ -58,7 +58,7 @@
 ## 💼 Experience
 - **Research Assistant - CVLab IUST**  
   _November 2023 - Present_  
-  - Conducted research in computer vision with a focus on [specific area].
+  - Conducted research in computer vision with a focus on Active Learning for Object Detection.
   - Developed and optimized deep learning models using TensorFlow and Keras.
   - Analyzed large datasets and created visualizations to support research findings.
 
