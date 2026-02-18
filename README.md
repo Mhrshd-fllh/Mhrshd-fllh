@@ -75,10 +75,5 @@
 - **LinkedIn**: [Mehrshad Fallah](https://www.linkedin.com/in/mehrshad-fallah-4644a9281)
 - **GitHub**: [Mhrshd-fllh](https://github.com/Mhrshd-fllh)
 
----
-
-## 💻 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhrshd-fllh)](https://github.com/anuraghazra/github-readme-stats)
 
 
